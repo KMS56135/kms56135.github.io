@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router"; // Обратите внимание: "react-router-dom", а не "react-router"
+import { BrowserRouter, Routes, Route } from "react-router-dom"; // Обратите внимание: "react-router-dom", а не "react-router"
 import { Layout } from "../layout/layout";
 import { Collection } from "../collection/collection";
 import { Vizit } from "../vizit/vizit";
